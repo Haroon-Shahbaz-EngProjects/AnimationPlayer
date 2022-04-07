@@ -4,8 +4,6 @@
  * @author Haroon
  */
 
-import javafx.application.Application;
-import java.util.concurrent.TimeUnit;
 
 public class Main {
 
